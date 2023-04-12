@@ -1,0 +1,50 @@
+ul.bookmarks {
+  list-style: none;
+}
+main{
+  background-color: #f5f5f5;
+}
+
+ul.bookmarks li {
+  margin-bottom: 5px;
+  border-bottom: 1px solid #ddd;
+  padding: 5px;
+}
+
+ul.bookmarks a {
+  margin-right: 10px;
+}
+
+.likes {
+  width: 30px;
+  margin-right: 3px;
+}
+
+header h3 {
+  line-height: 3em;
+}
+
+.icon-thumbs-up {
+  color: #999;
+  cursor: pointer;
+}
+
+.bookmarks em {
+  color: #666;
+  font-size: 11px;
+}
+
+.icon-trash {
+  color: #c6c6c6;
+  cursor: pointer;
+}
+
+.icon-trash:hover {
+  color: #666;
+}
+.title{
+  text-decoration: underline;
+}
+.title:hover{
+  color: #666;
+}
